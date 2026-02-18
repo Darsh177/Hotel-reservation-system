@@ -1,0 +1,2 @@
+1 vip first_floor 500 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1
+2 regular second_floor 300 0 0 0 0 0 0 0 0 0 1 1 1 1 1 1 1 1 1 1 1 1
